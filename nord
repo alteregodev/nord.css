@@ -1,0 +1,16 @@
+set $bg1 #2e3440
+set $bg2 #3b4252
+set $bg3 #434c5e
+set $bg4 #4c566a
+set $text1 #d8dee9
+set $text2 #e5e9f0
+set $text3 #eceff4
+set $olive #8fbcbb
+set $teal #88c0d0
+set $blue #81a1c1
+set $dark-blue #5e81ac
+set $red #bf616a
+set $orange #d08770
+set $yellow #ebcb8b
+set $green #a3be8c
+set $purple #b48ead
