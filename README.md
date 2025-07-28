@@ -19,4 +19,4 @@
 - green - nord14 **(#a3be8c)**
 - purple - nord15 **(#b48ead)**
 
-##### Official nord theme website - https://www.nordtheme.com/
+#### Official nord theme website - https://www.nordtheme.com/
