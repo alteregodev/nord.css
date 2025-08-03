@@ -1,10 +1,10 @@
-@define-color bg1 #2e3440;
-@define-color bg2 #3b4252;
-@define-color bg3 #434c5e;
-@define-color bg4 #4c566a;
-@define-color text1 #d8dee9;
-@define-color text2 #e5e9f0;
-@define-color text3 #eceff4;
+@define-color bg0 #2e3440;
+@define-color bg1 #3b4252;
+@define-color bg2 #434c5e;
+@define-color bg3 #4c566a;
+@define-color fg0 #d8dee9;
+@define-color fg1 #e5e9f0;
+@define-color fg2 #eceff4;
 @define-color olive #8fbcbb;
 @define-color teal #88c0d0;
 @define-color blue #81a1c1;
