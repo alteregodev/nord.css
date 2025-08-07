@@ -1,6 +1,8 @@
 # nord.css
 🖌️ Nord theme color palette in css and other formats
 
+You can use it for your rices, websites, and other stuff
+
 ## Colors
 - bg0 - nord0 **(#2e3440)**
 - bg1 - nord1 **(#3b4252)**
